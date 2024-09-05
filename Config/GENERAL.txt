@@ -83,7 +83,7 @@ CONFIG_PACKAGE_luci-app-ksmbd=y
 CONFIG_PACKAGE_luci-app-fileassistant=y
 CONFIG_PACKAGE_luci-app-usb-printer=y
 CONFIG_PACKAGE_kmod-usb-printer=y
-CONFIG_PACKAGE_luci-app-vlmcsd=y
+CONFIG_PACKAGE_luci-app-vlmcsd=n
 
 # SBP end
 #删除插件
